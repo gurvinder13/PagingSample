@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieSample</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="connection_problem">Connection Problem!!</string>
+    <string name="movie">movie</string>
+    <string name="sub_title">sub title</string>
+    <string name="movie_info">Movie Info</string>
+    <string name="release_date">Release Date:</string>
+    <string name="rating">Rating:</string>
+    <string name="revenue">Revenue:</string>
+</resources>
